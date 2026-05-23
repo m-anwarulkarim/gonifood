@@ -1,3 +1,13 @@
 /node_modules
 .next
 blog-482618-596720891929.json
+# OpenNext
+.open-next
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+
+.env*
+!.env.example
